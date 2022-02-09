@@ -1,6 +1,6 @@
 # Student-Roster
 
-First program that I wrote. The goal is to take an array containing information 
+This is the first program that I wrote. The goal is to take an array containing information 
 for five students, parse it to create instances of a Student class, and add these 
 Students to a Roster. Once the Roster is built, several functions are performed on it:
 
